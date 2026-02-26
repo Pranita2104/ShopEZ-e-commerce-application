@@ -1,4 +1,5 @@
 SHOPEZ : E-commerce Application
+
 A full-stack e-commerce application with authentication, product listings, cart, checkout, and admin dashboard.
 
 Features :
