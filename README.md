@@ -14,6 +14,7 @@ Features :
 5. Order Confirmation and Details: After successfully placing an order, you will receive a  confirmation notification.
 
 Roles and Responsibilties :
+
 USER: Represents the individuals or entities who are registered in the platform.
   
 Admin: Represents a collection with important details such as Banner image and Categories.
